@@ -1,0 +1,119 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+env1/
+env2/
+env3/
+env4/
+env5/
+env6/
+env7/
+env8/
+env9/
+venv.bak/
+venv1/
+venv2/
+venv3/
+venv4/
+venv5/
+venv6/
+venv7/
+venv8/
+venv9/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories
+lib/
+libs/
+library/
+libraries/
+vendor/
+node_modules/
+jspm_packages/
+bower_components/
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+*.egg-info
+MANIFEST
+*.manifest
+*.spec
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyd
+*.pyc
+*.pyo
+
+# Coverage
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Type checking
+*.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+.Pipfile.lock
+
+# Poetry
+.poetry/
+.pyproject.toml
+poetry.lock
+
+# pycache
+__pycache__/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# coverage
+.coverage
+
+# venv
+venv/
